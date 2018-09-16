@@ -22,7 +22,7 @@ robots:
   keywords: foo, bar, baz
   crawl: index,follow
 url: https://glennrowe.github.io/countylineoutfitters.co.dev/
-baseurl: "/countylineoutfitters.co.dev"
+baseurl: "/"
 ga:
   account: 
   cookieconsent: true
