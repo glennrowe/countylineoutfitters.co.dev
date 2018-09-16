@@ -38,7 +38,7 @@ links:
 - linkedin:
     name: LinkedIn
     show: false
-    href: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME/
+    href: https://linkedin.com/in/gwrowe/
     icon: fab fa-linkedin
 - googleplus:
     name: Google+
