@@ -31,7 +31,7 @@ avatar: https://avatars1.githubusercontent.com/u/2098980
 links:
 - linkedin:
     name: LinkedIn
-    show: false
+    show: true
     href: https://linkedin.com/in/gwrowe/
     icon: fab fa-linkedin
 - twitter:
@@ -41,12 +41,12 @@ links:
     icon: fab fa-twitter
 - facebook:
     name: Facebook
-    show: false
+    show: true
     href: https://facebook.com/countylineoutfitters
     icon: fab fa-facebook
 - instagram:
     name: Instagram
-    show: false
+    show: true
     href: https://instagram.com/countylinesc
     icon: fab fa-instagram
 - email:
