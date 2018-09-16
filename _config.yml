@@ -16,7 +16,7 @@ exclude:
 sass:
   style: expanded
 name: Where the road ends and the fun begins.
-subtitle: https://countylineoutfitters.co
+subtitle: New Products Launching This Summer.
 robots:
   description: One line of text describing the content of the page in less than 140
     characters.
@@ -140,6 +140,6 @@ links:
     show: true
     href: https://pastebin.com/raw/YOUR_PUBLIC_KEY
     icon: fas fa-key
-extra_html: 'New products launching this summer.
+extra_html: 'https://countylineoutfitters.co
 
 '
