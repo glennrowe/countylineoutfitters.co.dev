@@ -2,6 +2,6 @@
 
 # countylineoutfitters.co.dev
 
-![Screenshot](README.logo.jpg)
+![Screenshot](README.logo.png)
 
 ** Dev staging and test for countylineoutfitters.co **
