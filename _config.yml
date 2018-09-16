@@ -14,7 +14,7 @@ exclude:
 - README.*
 - LICENSE.txt
 sass:
-  style: nested
+  style: compressed
 name: Where the road ends and the fun begins.
 subtitle: New Products Launching This Summer.
 robots:
