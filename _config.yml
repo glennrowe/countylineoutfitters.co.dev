@@ -15,8 +15,8 @@ exclude:
 - LICENSE.txt
 sass:
   style: expanded
-name: https://countylineoutfitters.co
-subtitle: Where the road ends and the fun begins!
+name: Where the road ends and the fun begins.
+subtitle: https://countylineoutfitters.co
 robots:
   description: One line of text describing the content of the page in less than 140
     characters.
