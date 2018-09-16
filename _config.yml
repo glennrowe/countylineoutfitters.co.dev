@@ -31,7 +31,7 @@ avatar: https://avatars1.githubusercontent.com/u/2098980
 links:
 - linkedin:
     name: LinkedIn
-    show: true
+    show: false
     href: https://linkedin.com/in/gwrowe/
     icon: fab fa-linkedin
 - twitter:
