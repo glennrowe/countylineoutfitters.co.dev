@@ -22,7 +22,7 @@ robots:
   keywords: foo, bar, baz
   crawl: index,follow
 url: https://glennrowe.github.io/destinesia.cloud.fuse-core.dev/
-baseurl: 'destinesia.cloud.fuse-core.dev'
+baseurl: destinesia.cloud.fuse-core.dev
 ga:
   account: 
   cookieconsent: true
