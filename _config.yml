@@ -15,8 +15,8 @@ exclude:
 - LICENSE.txt
 sass:
   style: expanded
-name: Fuse Core
-subtitle: Frontend Developer
+name: County Line
+subtitle: Outfitters
 robots:
   description: One line of text describing the content of the page in less than 140
     characters.
@@ -140,7 +140,6 @@ links:
     show: true
     href: https://pastebin.com/raw/YOUR_PUBLIC_KEY
     icon: fas fa-key
-extra_html: 'Any (multiline) text containing simple HTML, such as links or ... lorem
-  ipsum.
+extra_html: 'Where the road ends and the fun begins.
 
 '
