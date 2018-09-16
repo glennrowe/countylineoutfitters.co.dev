@@ -21,13 +21,13 @@ robots:
   description: my development serverless hosted site
   keywords: foo, bar, baz
   crawl: index,follow
-url: https://glennrowe.github.io/destinesia.cloud.fuse-core.dev/
-baseurl: "/destinesia.cloud.fuse-core.dev"
+url: https://glennrowe.github.io/countylineoutfitters.co.dev/
+baseurl: "/countylineoutfitters.co.dev"
 ga:
   account: 
   cookieconsent: true
   anonymizeip: true
-avatar: https://avatars1.githubusercontent.com/u/2098980
+avatar: https://s3.amazonaws.com/countylineoutfitters.co.dev/countyline-badge-avatar.jpg
 links:
 - linkedin:
     name: LinkedIn
